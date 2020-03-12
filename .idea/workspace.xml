@@ -13,6 +13,9 @@
       <executable />
     </execution>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
       <path value="$PROJECT_DIR$/vendor/dragonmantank/cron-expression" />
@@ -104,6 +107,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1YIjjf8sSZDNQ45JjCD3XbVs724" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -136,7 +140,7 @@
       <workItem from="1582795275888" duration="980000" />
       <workItem from="1582833497612" duration="714000" />
       <workItem from="1584008888265" duration="73000" />
-      <workItem from="1584009244931" duration="7429000" />
+      <workItem from="1584009244931" duration="7831000" />
     </task>
     <servers />
   </component>
